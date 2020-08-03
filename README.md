@@ -1,4 +1,4 @@
-## Desafio GrennMile
+## Desafio 
 
 - Desafio: Criar um miniprojeto de automação de testes que execute o evento de long click em um componente web, e consiga validar se o tamanho em escala foi alterado para 225 x 225 pixels.
 - Problema identificado: Durante a elaboração dos teste com o cypress, não foi possível identificar algum comando no cypress para acionar o evento  de long click  realizado pela biblioteca sugerida.
