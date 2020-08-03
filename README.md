@@ -8,7 +8,7 @@ Criar um miniprojeto de automação de testes que execute o evento de long click
 
 Para executar o projeto, é necessário um ambiente com node (npm) e ter instalado o Cypress na pasta do projeto. 
 
-Com o ambiente preparado, o comando desse ser executado:
+Com o ambiente preparado, o comando deve ser executado:
 
 ` $ npm run cypress:open`
 
