@@ -6,7 +6,7 @@
 
 ## Executando o projeto
 
-Para executar o projeto, é necessário um ambiente com node.js (npm) e ter instalado o Cypress na pasta do projeto. 
+Para executar o projeto, é necessário um ambiente com node (npm) e ter instalado o Cypress na pasta do projeto. 
 
 Com o ambiente preparado, o comando desse ser executado:
 
